@@ -1,6 +1,6 @@
 # Personal Portfolio
 
-This project was created with [Vite+React].
+This project was created with [Vite+React](https://vitejs.dev/).
 
 <img width="1266" alt="Screen Shot 2022-06-19 at 2 18 18 PM" src="./src/assets/readme_banner.png">
 
