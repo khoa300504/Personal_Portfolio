@@ -4,7 +4,7 @@ function Header() {
   return (
     <header className="flex border-b items-center justify-center">
       {/* logo */}
-      <div className="logo basis-1/4 my-3 mx-5 text-3xl text-black font-medium tracking-wider font-pacifico">
+      <div className="logo basis-1/4 py-3 px-5 text-3xl text-black font-medium tracking-wider font-pacifico">
         KhoaNguyen.
       </div>
       {/* Intro-section */}
