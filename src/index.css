@@ -8,6 +8,10 @@
 @tailwind components;
 @tailwind utilities;
 
+.animate__animated .animate__bounce{
+  @apply duration-100
+}
+
 .menu-card{
   @apply py-3 px-5 rounded border border-black min-w-72 cursor-pointer transition-all hover:scale-105
 }
