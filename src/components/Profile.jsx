@@ -57,8 +57,8 @@ function Profile() {
             Download CV
           </div>
         </div>
-        <div className="profile-picture md:basis-2/5 items-center justify-center flex animate__animated animate__bounce animate__repeat-2">
-          <img src="./src/assets/astro.svg" alt="" className="w-2/3 h-2/3"/>
+        <div className="profile-picture md:basis-2/5 items-center justify-center flex">
+          <img src="https://firebasestorage.googleapis.com/v0/b/bookingticketapp-4194d.appspot.com/o/astro.svg?alt=media&token=8299267c-8d5e-47d2-b83a-11d202114f9b" alt="" className="w-2/3 h-2/3"/>
         </div>
       </div>
       <div className="edu-ex flex basis-[35%] mx-5 gap-5 h-full mt-5">
