@@ -64,8 +64,8 @@ function Profile() {
       <div className="edu-ex flex basis-[35%] mx-5 gap-5 h-full mt-5">
         <div className="ex basis-3/5">
           <div className="title text-2xl font-ubuntu mb-7 font-semibold">My Experience</div>
-          <div className="text-justify font-roboto mb-3">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</div>
-          <div className="text-justify font-roboto mb-3">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</div>
+          <div className="text-justify font-roboto mb-3">LUtilized technologies such as HTML, CSS, JavaScript, React.js, Next.js, TailwindCSS, Laravel, NestJS to build dynamic and responsive websites with content management features.</div>
+          <div className="text-justify font-roboto mb-3">Ensured cross-device compatibility, performance optimization, and SEO to enhance user experience.</div>
         </div>
         <div className="edu basis-2/5 border-l pl-5">
           <div className="title text-2xl font-ubuntu mb-7 font-semibold">Education</div>
