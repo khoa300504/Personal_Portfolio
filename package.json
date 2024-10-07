@@ -1,4 +1,5 @@
 {
+  "homepage": "https://khoa300504.github.io/Personal_Portfolio",
   "name": "portfolio",
   "author": "KhoaKod3r",
   "private": true,
@@ -8,10 +9,13 @@
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "dependencies": {
     "alertifyjs": "^1.14.0",
+    "gh-pages": "^6.1.1",
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
   },
