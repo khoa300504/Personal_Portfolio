@@ -468,10 +468,10 @@ ajv@^6.12.4:
     json-schema-traverse "^0.4.1"
     uri-js "^4.2.2"
 
-animate.css@^4.1.1:
-  version "4.1.1"
-  resolved "https://registry.yarnpkg.com/animate.css/-/animate.css-4.1.1.tgz#614ec5a81131d7e4dc362a58143f7406abd68075"
-  integrity sha512-+mRmCTv6SbCmtYJCN4faJMNFVNN5EuCTTprDTAo7YzIGji2KADmakjVA3+8mVDkZ2Bf09vayB35lSQIex2+QaQ==
+alertifyjs@^1.14.0:
+  version "1.14.0"
+  resolved "https://registry.yarnpkg.com/alertifyjs/-/alertifyjs-1.14.0.tgz#b6690580007d6cca2407d5a61e68aadc820e13e3"
+  integrity sha512-jUxJTcNYhJ2P1Wal73nmyTwMkaPim4PjZP9CAG+S8SK2SinraXxvOxnPrEY81/wc2iBPDFBP7mdg61db4WsuHQ==
 
 ansi-regex@^5.0.1:
   version "5.0.1"

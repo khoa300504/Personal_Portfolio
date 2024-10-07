@@ -1,5 +1,6 @@
 {
   "name": "portfolio",
+  "author": "KhoaKod3r",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -10,7 +11,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "animate.css": "^4.1.1",
+    "alertifyjs": "^1.14.0",
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
   },

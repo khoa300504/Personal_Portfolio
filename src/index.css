@@ -13,9 +13,37 @@
 }
 
 .menu-card{
-  @apply py-3 px-5 rounded border border-black min-w-72 cursor-pointer transition-all hover:scale-105
+  @apply py-3 px-5 rounded border border-black w-16 lg:min-w-40 xl:min-w-72 cursor-pointer transition-all hover:scale-105
 }
 
 .active-card{
   @apply bg-[#8A51FF] text-white border-none shadow-black-solid
+}
+
+@keyframes typing {
+  from {
+    width: 0
+  }
+}
+    
+@keyframes blink {
+  50% {
+    border-color: transparent
+  }
+}
+
+.typing {
+  width: 18.3rem;
+  animation: typing 2s steps(16), blink 1s step-end infinite alternate;
+  white-space: nowrap;
+  overflow: hidden;
+  border-right: 3px solid;
+  font-family: Lora;
+  font-size: 2em;
+  line-height: 40px
+}
+
+.animate__animated {
+  --animate-duration: 2s;
+  --animate-delay: 2s;
 }
